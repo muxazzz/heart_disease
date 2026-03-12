@@ -18,3 +18,6 @@ http://localhost:8000
 
 ## Исследование
 mod2-2.ipynb
+
+
+#ML #python #fastapi #docker
